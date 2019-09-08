@@ -1,5 +1,5 @@
 # alien-invasion
-This is a short arcade game. This is a work in progress as i'm adding more functionality like scoring etc.
+This is a short arcade game. This is a work in progress as I'm adding more functionality like scoring etc.
 To play this game run alien_invasion.py
 
 Press q to quit. <br/>
